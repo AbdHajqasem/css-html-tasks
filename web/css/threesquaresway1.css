@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+#red{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+#blue{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    position: fixed;
+    top: 40px;
+    left: 40px;
+
+}
+#yellow{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    position: fixed;
+    top: 60px;
+    left: 60px;
+}

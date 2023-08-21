@@ -1,0 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+#centerdiv {
+position: fixed;
+top: 50%;
+left: 50%;
+height: 350px;
+width: 350px;
+background-color: blue;
+border-radius: 50%;
+transform: translate(-50%,-50%);
+  }
+  

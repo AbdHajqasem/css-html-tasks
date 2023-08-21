@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+  
+  #centerdiv {
+    width: 350px; 
+    height: 350px; 
+    background-color:blue;
+    margin: auto;
+    border-radius: 50%;
+  }
+  
