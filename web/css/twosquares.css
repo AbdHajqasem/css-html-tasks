@@ -13,6 +13,7 @@ body{
     padding: 5px;
     display: flex;
     justify-content: center;
+    align-items: center;
 
 }
 #bigsquare{
@@ -24,7 +25,6 @@ body{
 #smallsquare{
 border-radius: 5px;
 height: 50%;
-margin-top: 12.5%;
 width:25%;
 background-color: rgba(194, 189, 189, 0.412);
 margin-left: 5px;
