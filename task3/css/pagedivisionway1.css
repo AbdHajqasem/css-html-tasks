@@ -1,0 +1,19 @@
+
+#firstd{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+   
+}
+.firstp{
+    margin: 5px;
+}
+
+#thirdd{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+   
+}
