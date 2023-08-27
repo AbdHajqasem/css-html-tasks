@@ -1,0 +1,28 @@
+#scndcon{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+#firstd{
+    margin: 10px;
+}
+#secondd{
+    margin: 10px;
+}
+#thirdd{
+    margin: 10px;
+}
+#forthd{
+    margin: 10px;
+}
+#thirdc{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+#fifthd{
+    margin: 10px;
+}
+#sixthd{
+    margin: 10px;
+}
+
